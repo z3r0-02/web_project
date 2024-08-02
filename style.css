@@ -1,0 +1,59 @@
+body {
+	text-align: center; /* Center the text */
+	font-family: 'roboto', sans-serif; /* Use the Roboto font, quotes in case there are special char. */
+	color: white;
+	margin: 0px 0px 50px 0px;
+}
+
+header {
+	font-size: 30px;;
+	color: rgb(74, 0, 193);
+}
+
+img {
+	width: 350px;
+}
+
+main {
+	margin: 70px auto;
+	padding: 40px 30px 40px 40px;
+	border-radius: 10px;
+	text-align: left;
+	background-color: rgb(136, 80, 195);
+	width: 800px;
+}
+
+p {
+	font-size: 18px;
+}
+
+span {
+	background-color: rgb(255, 238, 110);
+	padding: 4px 5px;
+	color: rgb(74, 0, 193);
+	border-radius: 5px;
+}
+
+button {
+	background-color: rgb(255, 230, 41);
+	border: none;
+	padding: 15px 20px;
+	font-size: 20px;
+	border-radius: 10px;
+}
+
+footer {
+	color: grey;
+}
+
+li {
+	list-style-type: none;
+	border-left: 3px solid transparent;
+	padding-left: 10px;
+
+}
+
+.yellowish_text {
+	/* border-left: 3px solid rgb(255, 255, 120); */
+	border-color: rgb(255, 255, 120);
+}
